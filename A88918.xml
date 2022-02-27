@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Match me these two: or The conviciton [sic] and arraignment of Britannicus and Lilburne. With an answer to a pamphlet, entituled, The parliament of ladies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88918</idno>
+            <idno type="STC">Wing M1077</idno>
+            <idno type="STC">Thomason E400_9</idno>
+            <idno type="STC">ESTC R201743</idno>
+            <idno type="EEBO-CITATION">99862243</idno>
+            <idno type="PROQUEST">99862243</idno>
+            <idno type="VID">114394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114394)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Match me these two: or The conviciton [sic] and arraignment of Britannicus and Lilburne. With an answer to a pamphlet, entituled, The parliament of ladies.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Britannicus = Marchamont Nedham and Thomas Audley.</note>
+                  <note>A reply in part to: Neville, Henry.  The ladies parliament (Wing L508).</note>
+                  <note>Annotation on Thomason copy: "July 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+               <term>Nedham, Marchamont, 1620-1678 --  Early works to 1800.</term>
+               <term>Audley, Thomas.</term>
+               <term>Neville, Henry, 1620-1694. --  Parliament of ladies --  Early works to 1800.</term>
+               <term>Pamphleteers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:114394:1" rendition="simple:additions"/>
+Match me theſe two: OR THE CONVICITON AND ARRAIGNMENT OF Britannicus and Lilburne.</p>
+            <p>WITH An Anſwer to a Pamphlet, entituled, THE Parliament of Ladies.</p>
+            <p>Printed in the Yeere 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114394:2"/>
+            <pb n="1" facs="tcp:114394:2"/>
+            <head>The Conviction and Arraignment of <hi>Britannicus</hi> and <hi>Lilburne.</hi>
+            </head>
+            <head>WITH An Anſwer to a Pampulet entituled, The <hi>Parliament of Ladies.</hi>
+            </head>
+            <p>THe well-affected party in and about the city of London, finding by too common experience, that the fames of divers upright and honeſt men were daily beſpattered, and the faithfulneſſe of divers reall Patriots weekly calumniated by divers envious depravers, and preſumptuous over-weening Libellers; to take away ſo great a reproach, and for the future to impede the inevi<g ref="char:EOLhyphen"/>table rents and diſtractions that would happen, occaſi<g ref="char:EOLhyphen"/>oned by theſe mens lying reports, petitioned His Maje<g ref="char:EOLhyphen"/>ſty, that a body of learned men might be admitted to aſſemble together in a Court of Judicatory, there to ſum<g ref="char:EOLhyphen"/>mon before them, the chief broachers of vaine and al<g ref="char:EOLhyphen"/>together unſufferable leaſings; and that having exami<g ref="char:EOLhyphen"/>ned them on ſtrict interrogatories, they might accor<g ref="char:EOLhyphen"/>ding to their deſerts, receive cenſure, and ſuffer con<g ref="char:EOLhyphen"/>digne puniſhment.</p>
+            <p>His Majeſty cheerfully aſſenting, theſe men were choſen as Members of the Court: <hi>Philoparthen</hi> a Poet, <hi>Sozimus</hi> a Lawyer <hi>Soranzo</hi> a Philoſopher, and <hi>Philo</hi> as Antiquary, with divers others.</p>
+            <p>The Members being aſſembled, they had ſome de<g ref="char:EOLhyphen"/>bate about chooſing their Judge; ſome pitched upon <hi>Bathillus,</hi> but it was objected, that his fancie was whol<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:114394:3"/>
+taken up in compiling the third part of his Night-Search, and that it was likely, if his expreſſion were to be meaſured with his muſe, he would beſtow many houres in talke, and yet utter but few words; and there<g ref="char:EOLhyphen"/>fore he was utterly uncapable of the place. Then they thought of electing <hi>Mantuan,</hi> but it was ſoone waved, on conſideration that he might be imployed in finiſhing his Paſtoralls of Britannia; and his Muſe having hither<g ref="char:EOLhyphen"/>to but ſung of <hi>Pan,</hi> and of imaginarie Groves, he could not be acquainted with a refined dialect.</p>
+            <p>At laſt they concluded, that the golden-mouth'd <hi>Li<g ref="char:EOLhyphen"/>nus,</hi> who had ſo ſufficiently manifeſted his Oratory in his excellent Madagaſcar, and his Albovine, was the fitteſt man on earth to be their Judge; and therefore they ordered that <hi>Catzius,</hi> who had ſo profoundly ſha<g ref="char:EOLhyphen"/>dowed himſelfe in Emblems, ſhould be diſpatched with Letters into France, imploring Her Majeſty of Great Britaine to part with her Poet one Moneth, the time li<g ref="char:EOLhyphen"/>mited for the ſitting of that Court.</p>
+            <p>Her Majeſty was graciouſly pleaſed to diſmiſſe her beloved Bard, who was as welcome to the Members of this imaginary Court, as ever <hi>Apollo</hi> to the Heliconian Damſells: he being inveſted on the Bench, they ordai<g ref="char:EOLhyphen"/>ned <hi>Catullus</hi> to be Clerk of the Aſſize, <hi>John Taylor</hi> to be Doore-keeper, and <hi>Martin Parker</hi> to be Subfizer, and carry out the offall.</p>
+            <p>All things being conveniently diſpoſed of, meet for the effecting of thoſe affaires, ready to be taken into con<g ref="char:EOLhyphen"/>ſideration; the Court ſate, and firſt fell into debate, what penalty ought to be inflicted on thoſe that ſhould derogate from the honour, or caſt aſperſions on the names of any either noble or vertuous: then <hi>Sozimus</hi> after a ſilence commanded, began to ſay;</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <pb n="3" facs="tcp:114394:3"/>
+                        <head>
+                           <hi>Sozimus</hi> his Speech.</head>
+                        <opener>
+                           <salute>Reverend Sirs,</salute>
+                        </opener>
+                        <p>IN this laſt and worſt of ages, time being growne ſickly and humerous, it is not ſufficient, that we have each man ſharpened a ſword to ſlay his bro<g ref="char:EOLhyphen"/>ther, and have tired our ſelves with deſtroying eve<g ref="char:EOLhyphen"/>ay man his friend; but now wee ſet on foot a wor<g ref="char:EOLhyphen"/>ſer fiercer warre, a warre of the pen; every man that hath but ſufficient ability to ſpell his owne name right, and to ſubſcribe to an acquittance, ſummons his wits, and hee will needs bee invective againſt ſome one, and divulge his folly in print. Divers wholſome Lawes have been enacted by our Prede<g ref="char:EOLhyphen"/>ceſſors to remedy this evill, and to curbe the bold<g ref="char:EOLhyphen"/>neſſe of Libellers: See the Lawes of King <hi>Alfred, Chap.</hi> 28. where it is ſaid, that the Authour and ſpreader of falſe rumours among the people, had his tongue cut out, if hee redeemed it not with the price of his head: And againe by the Statutes at Weſt<g ref="char:EOLhyphen"/>minſter, firſt made 3 <hi>Edw.</hi> 1. <hi>c.</hi> 33. 2 <hi>Rich.</hi> 2. <hi>c.</hi> 5. 12, <hi>&amp;c.</hi> and <hi>Eliz. Chap.</hi> 7. which Statutes yet remaine in their full force and vertue, it is enacted and ſtrictly defended, upon grievous pain; that from henceforth none ſhall be ſo hardy as to contrive, ſpeak, or ſet forth any falſe newes, lies, or tales of Prelates, Earls, Dukes, Barons, or great men of the Realme, whereby debates, diſcords, or ſlanders may ariſe, betweene the King &amp; his people, and the Lords, Nobles &amp; Commons,
+<pb n="4" facs="tcp:114394:4"/>
+to the ruine and quick deſtruction of the Realme, if re<g ref="char:EOLhyphen"/>medic were not provided: and he that ſhall offend therein ſhall be kept in priſon untill he brought him forth in Court that firſt did ſpeak and report the ſame; and if he cannot bring him forth, then he ſhall be grie<g ref="char:EOLhyphen"/>vouſly puniſhed, according to the nature of the offence, &amp;c. by which it appeareth, how hainouſly our Ance<g ref="char:EOLhyphen"/>ſtors, the States of this Land in former time, were of<g ref="char:EOLhyphen"/>fended with Slanderers and Libellers; and what an in<g ref="char:EOLhyphen"/>fallible preſident we have before our eyes, to proſecute with all vigour againſt the Revilers and Calumniators of our dayes. Let us therefore with all convenient ſpeed ſummon before us the perſons of thoſe the moſt noto<g ref="char:EOLhyphen"/>riouſly known, to be active in this kinde, and proceed againſt them impartially, handling them ſo ſeverely, that the after-times may wonder at the ſeverity of our juſtice.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Court allowed of <hi>Sozimus</hi> his Speech, and ordered <hi>Catullus</hi> the Clerk of the Court the next day ſhould exhibit a Bill, including the names of the re<g ref="char:EOLhyphen"/>markable offenders in that kinde, with the nature and quality of their crimes, and ſo for that day adjourned their Court.</p>
+            <p>Next day the Court met againe, and the Judge received three Bills from the Clerks againſt <hi>Lilburne,</hi> and the other againſt an Author then unknowne, the Writer of a Pamphlet entituled, <hi>The Parliament of La<g ref="char:EOLhyphen"/>dies;</hi> the Court commanded them to be read, and the Clerk began to read theſe enſuing Articles of high Treaſon drawn up againſt <hi>Britannicus.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles">
+                        <head>
+                           <pb n="5" facs="tcp:114394:4"/>
+Articles of high Treaſon charged on the exorbitant Reviler Britannicus.</head>
+                        <p n="1">1. That hee the ſaid <hi>Britannicus</hi> contrary to his Oath of Allegeance, had proclaimed the King to have forfeited his power, and that none ought to yeeld him ſubjection.</p>
+                        <p n="2">2. That hee the ſaid <hi>Britannicus</hi> vilified his Sove<g ref="char:EOLhyphen"/>raignes wife, mentioning her name in an unſeemly and unruly Dialect.</p>
+                        <p n="3">3. That he the ſaid <hi>Britannicus</hi> had taken away the good names of many eminent and worthy perſons, and upon all occaſions reviled, abuſed and contemned many right honourable Perſonages of His Majeſties Privy Counſell.</p>
+                        <p n="4">4. That for many moneths he was a conſtant <hi>Shimei, a Rabſhekah,</hi> and an Aretine, and in ſome reſpects was as great an Incendiary as the moſt perverſe and evill Coun<g ref="char:EOLhyphen"/>ſellour about His Majeſty.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>After the Clerk proceeded, and began to read the Ar<g ref="char:EOLhyphen"/>ticles drawne up againſt the obſtinate and refractory Col. <hi>Iohn Lilburne.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles">
+                        <p n="1">1 That he the ſaid <hi>Iohn Lilburne</hi> advanced to a Com<g ref="char:EOLhyphen"/>mander from being a Servitor, had not dealt ſo punctu<g ref="char:EOLhyphen"/>ally, nor mannaged his actions ſo faithfully, as was re<g ref="char:EOLhyphen"/>quiſite for the attaining of thoſe immunities, for which he went forth, as otherwiſe he might have done.</p>
+                        <p n="2">2 That he the ſaid Lievt. Col. <hi>Lilburne,</hi> according to his demerits, juſtly ſhut up in priſon, ceaſed not conti<g ref="char:EOLhyphen"/>nually to divulge Pamphlets and Papers, of very dange<g ref="char:EOLhyphen"/>rous and evill conſequence, and tending to ſteale away the hearts of the people from their Rulers, and to make the high Court of Parliament as odible in their eyes,
+<pb n="6" facs="tcp:114394:5"/>
+as ever was the High Commiſſion or Star-Chamber.</p>
+                        <p n="3">3 That the ſaid Col. <hi>Lilburne</hi> had revolted from his principles, and of a ſeeming helper, was become a furi<g ref="char:EOLhyphen"/>ous demoliſher, and that he had ſhowne himſelf a per<g ref="char:EOLhyphen"/>fect temporizer.</p>
+                        <p n="4">4. That he the ſaid Col. <hi>Lilburne</hi> had aſſayed to era<g ref="char:EOLhyphen"/>dicate, even the very fundamentall Lawes of the Land, to root out Monarchy, and ſet up Anarchic, as in his <hi>Free-mans Freedome vindicated,</hi> pag. 11. where he de<g ref="char:EOLhyphen"/>ſperately inveigheth againſt all power and authority what ſoever, both divine and humane, and therefore in ſo doing his fact was treaſonable.</p>
+                        <p n="5">5. That he the ſaid Colonell <hi>Lilburne,</hi> in a book intituled, <hi>A Remonſtrance of the free-borne people of England,</hi> maintaineth a doctrine never before heard of, which overturneth all Law, and breaketh in pieces the ſword of Juſtice, and openeth a gap to all licentiouſ<g ref="char:EOLhyphen"/>neſſe, exorbitancie, and prophaneneſſe, ſaying, that the body of the People may do that of themſelves, which their Deputies, Truſtees, Repreſentators, choſen ones doe for them, onely for greater conveniency they de<g ref="char:EOLhyphen"/>pute them, and they may go no further in any thing, nor ſit no longer, nor diſpoſe of any thing, but accor<g ref="char:EOLhyphen"/>ding to their commiſſion and power received from the repreſented, and that the State univerſall, the body of the common People, is the earthly Soveraigne Lord, King, and Creator of the King, Parliament, all Offi<g ref="char:EOLhyphen"/>cers, Miniſters of Juſtice, underived Mejeſty, and King<g ref="char:EOLhyphen"/>ſhip inherently reſides in the State univerſall, the com<g ref="char:EOLhyphen"/>mon People, &amp;c.</p>
+                        <p n="6">6. That the ſaid Col. <hi>Lilburne</hi> hath moſt traiterouſly and vilely ſpoken againſt the Kings Majeſty, in his late printed book called <hi>Regall Tyranny</hi> diſcovered, as in
+<pb n="7" facs="tcp:114394:5"/>
+Page 14. <hi>We may ſee,</hi> he ſaith, <hi>The office of a King is not in the leaſt of Gods inſtitution, neither is it to be given to any upon earth.</hi> And p. 56, 57. he ſaith of the King in theſe words, <hi>Charles Stuart hath committed Treaſon againſt the Kingdome of England, &amp;c. and that he is guilty of all the innocent blood ſhed in England, Scotland, and Ireland, ſince the Wars, which is the blood of thouſands, for which if all the ſons of men ſhould be ſo baſe and wicked as not to doe their duty in executing juſtice upon him, which legally may and ought to be done, by thoſe eſpecially who have power and authority in their hands, yet un<g ref="char:EOLhyphen"/>doubtedly the righteous God will, and I am confident in an exemplary manner in deſpight of all his wicked protectors and defenders.</hi>
+                        </p>
+                        <p n="7">7. <hi>That the ſaid Col.</hi> Lilburne <hi>now arrived at the height of impu<g ref="char:EOLhyphen"/>dence, layeth the cauſe of the Parliament againſt the King in the one ſcale, and the cauſe of the oppreſſed people of England, enſlaved by them, in the other ſcale, and cenſureth, that the Commons of England are now more burthened by them, then ere they divulged they were by the King, and have the ſame and greater reaſons to fight againſt them, who have entred themſelves into a conſpiracie, and are become a com<g ref="char:EOLhyphen"/>pany of lawleſſe, unlimited, &amp; unbounded men, ſetters up of the higheſt Tyrannie that can be ſet up in the world, who have no rule to walke by, but their owne corrupted and bloody wills, and are a company of devouring Lions, ravening Wolves, and crafty Foxes,</hi> as pag. 7. of his laſt Book, intituled, <hi>Oathes unwarrantable.</hi>
+                        </p>
+                        <p n="8">8. <hi>That he the ſaid Col.</hi> Lilburne, <hi>to the diſgrace of Chriſtianity, and all inlightned men, who know that they are forbidden to raile on thoſe that are in authority, no, although their Government were vitious and tyrannicall, according to the example of Saint</hi> Paul, <hi>who excuſed himſelfe, when he had but in a ſlight manner ſomething taun<g ref="char:EOLhyphen"/>ted</hi> Ananias, <hi>hath avouched he will maintaine the Parliament to be degenerated into the moſt notorious pack of tyrants, that ever in the world were aſſembled together ſince</hi> Adams <hi>Creation, minding viſibly nothing in the world but pleaſure, oppreſſion, cheating and cozening the whole Kingdome of its treaſure and revenues, trades, lives, bloods, liberties, and properties, for which he cenſureth them, to deſerve no<g ref="char:EOLhyphen"/>thing but to be pulled out by the eares, and throwne out to the dung<g ref="char:EOLhyphen"/>hill, and be trodden under foot by all men, &amp;c.</hi> as in his Book afore<g ref="char:EOLhyphen"/>ſaid, pag. 38.</p>
+                        <p n="9">
+                           <pb n="8" facs="tcp:114394:6"/>
+9. <hi>That he the ſaid Col.</hi> Lilburne <hi>hath endeavoured to perſwade the people, the Parliament of England are no longer a Parliament, and in his Book afore-mentioned, pag. ibid. have forfeited their eſſence, and abſolutely nullified the end of their ſitting, and are from a compa<g ref="char:EOLhyphen"/>ny of faithfull Shepherds, become a company of devouring Lions, and rauenous Wolves; and becauſe they are ſo, he adjudgeth them to be worried to death with maſtiffe-dogs, (which alas, cannot but be too weak to encounter them) and that by them they ſhould be worried and pulled in pieces.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Court taking into conſideration the ſubſtance and import of the ſeveral Articles, Ordered the principal Heads of them to be drawn up, and a Meſſenger to be diſpatched, with plenary po<g ref="char:EOLhyphen"/>wer, to bring the bodies of the three Libellers before-mentioned, to anſwer each of their offences at their Bar, the next enſuing day, and ſo for that day adjourned.</p>
+            <p>The next day the Court being ſate, <hi>Britanicus</hi> and <hi>Lilburne</hi> were at hand to ſhew themſelves, but the Author of <hi>The Parliament of Ladies</hi> could not be found, although diligent ſearch was made for him; The Meſſenger related to the Judge, and the Judge to the Bench, that they had brought the two Incendiaries, <hi>Britanicus</hi> and <hi>Lilburne,</hi> who were ready to attend at their Bar, and that they had more to doe to bring <hi>Lilburne,</hi> then to find <hi>Britanicus;</hi> for the one alledged, that it was a breach of <hi>Magna Charta,</hi> for any free-man of <hi>England,</hi> to render an account of his actions, or to ſuffer puniſhment for any crime, were it never ſo hainous, and therefore they were inforced to raviſh his perſon, and bring him perforce before them. That they found <hi>Britanicus</hi> in his bed, in to deep a ſtudie, that at their approach he ſcarcely credited his eyes; that they gueſſed by the papers which they then had ſeized on, that he was deeply projecting how to find a clew, which might guide him out of that labyrinth in which he had involved himſelfe; and that his papers imported, that he had a purpoſe, ſo he could ſlip his owne neck out of the coller, to leave others there<g ref="char:EOLhyphen"/>in, though they were ſtrangled, to lay his guilt on them that had hired him to ra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, and proclaime himſelfe a tranſcedent Rebel, a reviler of his Soveraigne for money.</p>
+            <p>
+               <pb n="9" facs="tcp:114394:6"/>
+The Judge then commanded <hi>Britanicus</hi> to be brought to the Bar, and cauſed the Clerk of their Court to read his Charge, upon which <hi>Philo</hi> thus inferred:</p>
+            <p>Behold the man before you, who hath made the Natives of <hi>great Britaine</hi> a mockery, and a word of reproach to all Nati<g ref="char:EOLhyphen"/>ons, who hath dared to flie in the face of his Maker, to contemn, accuſe and vilify his Soveraigne with ſuch invective taunts, and reproachfull termes, that not all the Hiſtories in the world re<g ref="char:EOLhyphen"/>port of one in any age ſo deſperately inclin'd, and impudently incorrigible; he hath hitherto eſcaped the hand of juſtice, and hath nouriſhed himſelf (no doubt) with vain hopes, that he ſhould never render an account for his inſolencies; but now the time is arrived, that he muſt ſuffer for his ſinnes, and be made an example of juſtice to poſterity.</p>
+            <p>
+               <hi>Britanicus</hi> having heard his charge read, with <hi>Philos</hi> ſpeech, moſt lively characterizing him, was licenced to anſwer for him<g ref="char:EOLhyphen"/>ſelf, who no leſſe bold of ſpeech, then impudent in writing ſaid,</p>
+            <p>My worthy and learned Judges, it doth not the leaſt affright me to render an account to you, whom I know to have drank deep of the <hi>Pierian fount,</hi> &amp; to be converſant with the Muſes, knowing my <hi>Annals</hi> compriz'd in <hi>poetick</hi> proſe, have been indeed but diſſolved verſe: And that I bare away the palm from the whole crowd of Pamphleters; the Diurnal, the Weekly account, <hi>Ruſticus, Hyber<g ref="char:EOLhyphen"/>nicus, Civicus,</hi> and the <hi>London poſt,</hi> they were but ſilly empty Chroniclers, I Lord predominant, ſententious, as well as narrative. O <hi>Chaucer</hi> and thy <hi>Genius,</hi> help on my tale: I confeſſe I was bold and invective; he that undertakes to encounter Majeſty, muſt not be ſhaken with Pannick fear; I eſteem it my chief glo<g ref="char:EOLhyphen"/>ry, that I ſhall be the ſole wonder of the next Age, and be ſtiled THE PRINCE OF LIBEL<g ref="char:EOLhyphen"/>LERS: His Majeſty hath ample cauſe to applaud my veine, for if he conſider rightly, my lines not ſo Eclipſed his glory as they advanced his cauſe, ſo that forraign Nations, were it for my ſake onely, will tearm his war juſt.</p>
+            <p>
+               <hi>Soranzo</hi> anſwered,</p>
+            <p>
+               <q>You ſee the fellow's bold confidence; to be impudent in an errour is unſufferable; mix your votes, and Doom the Libeller according to his merits.</q>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:114394:7"/>
+The Court then commanded him to withdraw and reſolve upon the queſtion, that foraſmuch as <hi>Britanicus</hi> perſiſted in his errour, and confirmed the ſame with pride, his own mouth had judged him, and therefore they gave Sentence, that he ſhould be drawn on an hurdle from <hi>Newgate</hi> to <hi>Tyburne,</hi> by a <hi>Lyon</hi> and an <hi>Aſſe,</hi> with a paper on his breſt, bearing this inſcription, THE BLASPHEMER OF <hi>GOD</hi> AND HIS <hi>ANOIN<g ref="char:EOLhyphen"/>TED.</hi> And being arrived at the triple tree, to be faſtned by the neck with an iron coller, and ſo hanging between Heaven and earth, as unworthy of both, a ſoft fire kindled beneath him, to ſcorch and puffe up his skin, and one in the ſhape of a furie to prick his impoſthumated fleſh, with a ſharp bodkin, till the expi<g ref="char:EOLhyphen"/>red, that he might deſpaire, and be ſenſible of the paines of hell he was to ſuffer eternally.</p>
+            <p>He being diſmiſſed, and ſigned with the Character of death, <hi>Lilburne</hi> was brought to the bar, who being commanded to kneel, refuſed to do it, having had formerly denyed to yeeld homage to an higher Judicature: therefore to them he would not bend the knee, on which occaſion of his unwarrantable obſtinacy <hi>Phi<g ref="char:EOLhyphen"/>loparthen</hi> anſwered,</p>
+            <q>
+               <p>
+                  <hi>WORTHY SIRS,</hi>
+               </p>
+               <p>You ſee the perverſneſſe of this man, now <hi>Englands</hi> chief and prime Incendiary, who hath hitherto occaſioned a prolix multitude of ſorrowes, to ſcourge our Nation: one who hath made it his chief imployment to revile and caluminate, this is the man that hath railed againſt the Government of the Church of <hi>England,</hi> terming it <hi>Antichriſtian,</hi> and <hi>Diabolicall,</hi> this is the man that hath ſold the <hi>Engliſhmans Birth-right</hi> for a meſs of pottage, when he wrote <hi>Englands Birth-right,</hi> pretending to Vindicate their Rights, whoſe very breath is contagious, and whoſe papers, ſent from ſo unſetled a perſon, have fired the breſts of the Commons of this. Kingdome with an Epidemick heat, whoſe inſolencies ſhould I relate, the naration thereof would be ſufficient to pervert your ſenſes, and to ſhake in ſunder the ſupporters of this ſquare roof; he hath a long time been mew'd up, and hath triumph'd hoping that his own faction in deſpight of juſtice, would guerdon him, and render him guilt<g ref="char:EOLhyphen"/>leſs: the fates have ſuffered him to perſiſt, till he hath filled up
+<pb n="9" facs="tcp:114394:7"/>
+his meaſure of ſinne, brim-full, and running over, and now have given up, to ſuffer condigne puniſhment.</p>
+            </q>
+            <p>
+               <hi>Sozimus</hi> anſwered, Although his actions merit not, that he ſhould have admittance to reply, but to be ſeized on by the rough hand of juſtice, yet it will not be an errour, if we ſuffer him to ſpeak for himſelf, and hear from his own mouth.</p>
+            <p>
+               <hi>Lilburne</hi> nothing daunted, cuſtome having imboldned him, not to be affrighted at the ſtern looks of his Judges, began to ſay as followeth.</p>
+            <p>
+               <hi>God</hi> the abſolute <hi>Soveraigne Lord</hi> of all, having created one man, even <hi>Adam,</hi> inveſted him with Power and Authority to re<g ref="char:EOLhyphen"/>gulate, command, &amp; ſubject all beaſts of the field, creeping things, and fiſhes, &amp;c. But he made not the leaſt mention that any ſhould eſteem another man to be Inferiour to himſelf, or that his ſucceſ<g ref="char:EOLhyphen"/>ſive poſterity ſhould be diſtinguiſhed by verball Titles, and Lord<g ref="char:EOLhyphen"/>ly Commands, neither hath any power, neither can they execute any, but meerly by inſtitution or Donation: and it is unnaturall, irrationall, ſinful, wicked, and unjuſt, for any man, or men what<g ref="char:EOLhyphen"/>ſoever, to part with ſo much of their power, as ſhall enable any of their equals to queſtion, doom, and inflict puniſhment upon them; and it is alſo unnaturall, unjuſt, ſinfull, wicked, and devi<g ref="char:EOLhyphen"/>liſh, for any man whatſoever, <hi>Spirituall, Temporall, Clergy-man</hi> or Lay-man, to appropriate and aſsume to himſelf, Power, Autho<g ref="char:EOLhyphen"/>rity, and Juriſdiction, to rule govern or reign over any ſort of men in the world; and whoſoever doth it, whether Cleargy-man or Lay-man, endeavours to appropriate &amp; aſsume to himſelf the office and Soveraignty of God, which was the ſinne of the <hi>de<g ref="char:EOLhyphen"/>vils,</hi> therefore I appeal from you, as not being <hi>Idonci, &amp; compe<g ref="char:EOLhyphen"/>tentes Judices,</hi> and I ſtand at the Judgement feat of God, unto whom onely I ought to render an account.</p>
+            <p>
+               <hi>Soranzo</hi> retorted,</p>
+            <p>
+               <q>Gentlemen, you ſee the man ſtill retaineth the ſame Soul that he harboured, when he appealed from the ſentence of the Houſe of <hi>Lords</hi> aſsembled in Parliament, but now he may not eſcape with ſo mild a cenſure as onely to be amerced and confined, he is the onely diſturber of mankind, that is now viſible, <hi>Britanicus</hi> being taken away, proceed we according to his Crimes.</q>
+            </p>
+            <p>Then <hi>Lilburne</hi> being commanded to withdraw the Court, en<g ref="char:EOLhyphen"/>tred
+<pb n="12" facs="tcp:114394:8"/>
+into ſerious conſultation to determine what puniſhment wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt meet to inflict on ſo notorious a Libeller, and after ſome ex<g ref="char:EOLhyphen"/>pence of time, gave the reſult thus.</p>
+            <p>That foraſmuch as <hi>Lilburne</hi> had both abuſed <hi>Mars,</hi> and vilifi<g ref="char:EOLhyphen"/>ed <hi>Mercurie,</hi> the one by his <hi>temeritie,</hi> when fighting, the other by his debility, when writing; they ordered, that during his abode on earth, he ſhould be confined to an high <hi>Turret,</hi> ſo to pene<g ref="char:EOLhyphen"/>trate his mind with an hate of his ambition, that he ſhould be girt with a wooden ſword, ſheathed in an earthen ſcabberd; his meat to be the carkaſses of <hi>Ravens,</hi> becauſe he had made ſuch fa<g ref="char:EOLhyphen"/>tall muſick, and was ſtill croaking againſt his Superious; of wind<g ref="char:EOLhyphen"/>fuckers, becauſe he took pleaſure to beat the ayre: of Eagles be<g ref="char:EOLhyphen"/>cauſe he hath wounded many with his tallons: and of <hi>Canarie birds,</hi> becauſe he could fing ſongs pleaſing, to contrary-minded parties: his drink they ordered, ſhould be taken out of the river <note n="*" place="margin">A flood that whoſoever drinks of, his guts by de<g ref="char:EOLhyphen"/>grees, congeal to ſtone.</note> 
+               <hi>Ciconia,</hi> and ſpiced with the powder of <hi>Mandrakes,</hi> for that his voice was ominous, with ſome quantity of the juice of the herb called <hi>Hellebore,</hi> for that it might be poſſible in time, he might be purged of his madneſs: his bed they ordered ſhould hang by Pullies betwixt the roof and the floor, and ſo faſhioned by cunning workmen, that it might continually move, and falſie from one ſide to another, to put him in mind, that as by his poy<g ref="char:EOLhyphen"/>ſonous Rethorick he had rockt others in the Cradle of ſecurity, and ſent them in a ſleep to hell, ſo himſelf was now ſailing to the inviſible land: Moreover they ordered, in deriſion of his Pam<g ref="char:EOLhyphen"/>phlets, &amp; to launce his impoſthumated conceit of his own worth, that the pictures of <hi>Orpheus</hi> and <hi>Homer,</hi> of <hi>Auſtin</hi> and <hi>Ambroſe,</hi> of <hi>Livie</hi> and <hi>Seneca,</hi> compaſsed about with <hi>Apollo,</hi> and the <hi>nine Muſes,</hi> ſhould be pourtrayed on the wall, their faces vailed, and darts in their hands, having this motto ingraven, in letters Capi<g ref="char:EOLhyphen"/>tall over their heades.</p>
+            <lg>
+               <l>
+                  <hi>Divine verſe, and Sacred Theologie,</hi>
+               </l>
+               <l>
+                  <hi>the Miſtriſſe of the Arts Philoſophie:</hi>
+               </l>
+               <l>
+                  <hi>With faire Hiſtoria, wee and they do mourn,</hi>
+               </l>
+               <l>
+                  <hi>for that a</hi> Lilburne <hi>on the earth was born.</hi>
+               </l>
+            </lg>
+            <p>After <hi>Lilburns</hi> ſentence was confirmed, and he given into the
+<pb n="13" facs="tcp:114394:8"/>
+hands of thoſe who were commanded to ſhut him up, and inflict upon him the unheard of puniſhment, the Court took into con<g ref="char:EOLhyphen"/>ſideration the tranſcendant crime of the Author of that abuſive Pamphlet, intituled the Parliament of Ladies, and commanded the Articles drawne up againſt him to be read, which were,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles">
+                        <p n="1">
+                           <hi>1.</hi> That he the ſaid Author, though he had ſhadowed his ſpleen very covertly, and darted his thunderbolts unſeene, bad very groſly and impiouſly abuſed the Parliament of England, in particular, divers ho<g ref="char:EOLhyphen"/>nourable Lords, worthy Knights, vertuous Ladies, and well deſcended Gentlemen.</p>
+                        <p n="2">
+                           <hi>2.</hi> That he had caſt aſperſions on his Highneſſe the Prince Elector, taxing him of libidinouſneſſe and incontinencie with divers La<g ref="char:EOLhyphen"/>dies.</p>
+                        <p n="3">
+                           <hi>3.</hi> That he had abuſed the Right Honourable the Lord <hi>Rich,</hi> the Lady <hi>Cockham,</hi> and the Lord <hi>Cambden.</hi>
+                        </p>
+                        <p n="4">
+                           <hi>4.</hi> That he had abuſed the reverend Doctor <hi>Sibballs,</hi> not ſticking to aver, that he had lately beene in <hi>Cornelius Tubs ,</hi> and that the Lady <hi>Kenſington</hi> was much delighted with M. <hi>Saltmarſh</hi> his perfor<g ref="char:EOLhyphen"/>mances.</p>
+                        <p n="5">
+                           <hi>5.</hi> That he had groſſely vilified the <hi>Lady Cobham,</hi> averring, though myſteriouſly, that ſhe had three Children not by her Lord, but her Lemman.</p>
+                        <p n="6">
+                           <hi>6.</hi> That rowing one way, and looking another, he had revil'd, de<g ref="char:EOLhyphen"/>ſpiſ'd &amp; jeer'd even the Parliament of England, queſtioning their Or<g ref="char:EOLhyphen"/>ders in dark ſpeeches, cenſuring their Actions under feigned names, and deriding their perſons by a wilfull miſtake.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Court taking into conſideration, the ſubſtance and import of the ſeverall Articles, Ordered, that in regard the ſaid Author was not to be found; diligent ſearch ſhould be made for him, and that ſo ſoone as he ſhall be ſeized on by the rough hand of ju<g ref="char:EOLhyphen"/>ſtice, he ſhould be impriſoned in <hi>Newgate</hi> untill thoſe Ladies whom he had taxed of incontinencie and other groſſe crimes, ſhould be aſſembled in ſome convenient place, where they ſhall think fit, and each Lady being ſeated round, that he the ſaid Au<g ref="char:EOLhyphen"/>thor, with his hands and feet bound, be thrown in the midſt of them, and from them to receive his doom, according as the wiſ<g ref="char:EOLhyphen"/>doms
+<pb n="14" facs="tcp:114394:9"/>
+domes of the ſaid Ladies ſhall think fit, the honourable Lords, and worthy Ladies, needing not to ſuſpect, but he the ſaid Author ſhall undergoe the ſevereſt cenſure, and have his ſoule divorced by ſome unwonted torture.
+<q>
+                  <l>
+                     <hi>All Hiſtories afford, a womans will</hi>
+                  </l>
+                  <l>
+                     <hi>Is not ſo ſtrong in anger, as her skill.</hi>
+                  </l>
+               </q>
+            </p>
+            <p>Theſe things thus prudently handled, and the Libellers accor<g ref="char:EOLhyphen"/>ding to juſtice doomed, the Members diſperſed themſelves, each to his owne abode, ſuppoſing that nature could not produce ſuch another trinity of Libellers, as the <hi>Hue and Cry. Englands Birth<g ref="char:EOLhyphen"/>right,</hi> and <hi>the Parliament of Ladies.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
